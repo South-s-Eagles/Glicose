@@ -1,7 +1,7 @@
 # Glicose
 Algoritmo para simulação de nível de glicose
 
-#Script para o banco de dados
+# Script para o banco de dados
 
 CREATE DATABASE IF NOT EXISTS glicose;
 
